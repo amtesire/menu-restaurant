@@ -16,8 +16,10 @@ body{
 .wor,.wor1,.wor2,.wor3,.wor4,.wor5,.wor6,.wor7,.wor8,.wor9,.wor10,.wor11,.wor12,.wor13,.wor14,.wor15{
     font-weight: bolder;
     color:white;
+    display: none;
 }
 .siz, .siz1, .siz2, .siz3{
     font-weight: bolder;
     color: white;
+    display: none;
 }
