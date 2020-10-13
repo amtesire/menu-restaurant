@@ -1,0 +1,19 @@
+h2{
+    font-weight: bolder;
+    color:red;
+    text-align: center;
+    background-image: url(https://www.vmcdn.ca/f/files/halifaxtoday/images/food/012519-wine-and-food-dining-restaurant-.jpeg;w=960);
+}
+.h3{
+    font-weight: bolder;
+    color:white;
+    text-align: center;
+   
+}
+body{
+    background-color: rgb(68, 11, 11);
+}
+.wor,.wor1,.wor2,.wor3,.wor4,.wor5,.wor6,.wor7,.wor8,.wor9,.wor10,.wor11,.wor12,.wor13,.wor14,.wor15{
+    font-weight: bolder;
+    color:white;
+}
