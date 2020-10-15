@@ -10,11 +10,14 @@ h2{
     text-align: center; 
 }*/
 body{
-    background-color: rgb(46, 5, 5);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFkCQz5dhxGGIwrZZGAvsXow6eA4UNdMfCjA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 .wor,.wor1,.wor2,.wor3,.wor4,.wor5,.wor6,.wor7,.wor8,.wor9,.wor10,.wor11,.wor12,.wor13,.wor14,.wor15{
     font-weight: bolder;
-    color:white;
+    color:black;
     display: none;
     text-align: center;
     font-size: 20px;
@@ -22,10 +25,13 @@ body{
 }
 .siz, .siz1, .siz2, .siz3{
     font-weight: bolder;
-    color: white;
+    color:black;
     display: none;
     text-align: center;
     font-size: 20px;
     padding-top: 35%;
 
+}
+.call{
+    color: white;
 }
